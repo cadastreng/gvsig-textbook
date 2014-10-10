@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-tag xmlns="http://www.gvsig.gva.es">
+    <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+    <property key="VERSION" value="1.11.0"/>
+    <property key="comments" value=""/>
+    <property key="creationDate" value="23.01.2012"/>
+    <property key="isAbsolutePath" value="false"/>
+    <property key="numExtents" value="0"/>
+    <property key="numCameras" value="0"/>
+    <property key="data-source-count" value="21"/>
+    <property key="numDocuments" value="3"/>
+    <property key="modificationDate" value="31.01.2012"/>
+    <property key="name" value="Системы_координат.gvp"/>
+    <property key="owner" value=""/>
+    <property key="selectionColor" value="255,255,0,255"/>
+    <property key="projection" value="ESRI:54042"/>
+    <property key="followHeaderEncoding" value="true"/>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_125a9773_135079eeb78__7ff6"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\суша.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_125a9773_135079eeb78__7ff7"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\суша.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_681fcb9_135078aa6f7__7fff"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\географическая_сетка\сетка_15_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_681fcb9_135078aa6f7__8000"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\географическая_сетка\сетка_15_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_125a9773_135079eeb78__7ff8"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\суша.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms143abde_135078bfa15__7ffc"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\географическая_сетка\сетка_15_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_681fcb9_135078aa6f7__7ffe"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\географическая_сетка\сетка_15_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms58fc7c93_1351b71e60f__7ffd"/>
+        <property key="file" value=".\.\110m_WGS\географическая_сетка\сетка_15_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_681fcb9_135078aa6f7__7ffd"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\географическая_сетка\сетка_15_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms58fc7c93_1351b71e60f__7ffc"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\географическая_сетка\сетка_15_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms325ed526_13507aa14c5__7ff8"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\суша.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms58fc7c93_1351b71e60f__7ffb"/>
+        <property key="file" value=".\.\110m_WGS\географическая_сетка\сетка_15_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_d6a1945_1351b5b6997__7ffc"/>
+        <property key="file" value=".\.\110m_WGS\географическая_сетка\сетка_20_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms325ed526_13507aa14c5__7ff7"/>
+        <property key="file" value="GIS_Tutorial\110m_WGS\суша.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_1f098c0e_135079711bf__7ffc"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\суша.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms325ed526_13507aa14c5__7ff6"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WIII\суша.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms325ed526_13507aa14c5__7ff5"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WIII\географическая_сетка\сетка_30_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="ORA_EPSG"/>
+        <property key="file" value="C:/My_Program/gvSIG_1.11.0_final/bin/gvSIG/extensiones/com.iver.cit.gvsig.oracle_spatial/dbf/ORA_EPSG.DBF"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms761e4db8_13507a8670a__7ff8"/>
+        <property key="file" value="GIS_Tutorial\110m_WGS\географическая_сетка\сетка_30_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_216ebe9d_13507b75a3a__7ffa"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\географическая_сетка\сетка_30_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="gdbms_216ebe9d_13507b75a3a__7ffb"/>
+        <property key="file" value="gvSIG_Tutorial\110m_WGS\географическая_сетка\сетка_30_градусов.dbf"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment" value=""/>
+        <property key="creationDate" value="23.01.12 1:29"/>
+        <property key="name" value="Безымянный - 0"/>
+        <property key="owner" value=""/>
+        <property key="numViews" value="4"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="-1.8830197987126566E7"/>
+                <property key="adjustedExtentY" value="-2.421231931042762E7"/>
+                <property key="adjustedExtentW" value="4.2079451621863775E7"/>
+                <property key="adjustedExtentH" value="4.000784784971048E7"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="129475.234375"/>
+                <property key="dist3pixel" value="388425.6875"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="extentX" value="2209504.1558071203"/>
+                <property key="extentY" value="-2.421231931042762E7"/>
+                <property key="extentW" value="47.3359963979437"/>
+                <property key="extentH" value="4.000784784971048E7"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="ESRI:54024"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="10"/>
+                    <property key="numrec" value="10"/>
+                    <property key="extent0X" value="-469131.4643060154"/>
+                    <property key="extent0Y" value="-2.708371555912014E7"/>
+                    <property key="extent0W" value="1805973.9081345608"/>
+                    <property key="extent0H" value="4.17811653183475E7"/>
+                    <property key="extent1X" value="2067330.51117545"/>
+                    <property key="extent1Y" value="-2.4054052643961724E7"/>
+                    <property key="extent1W" value="1805973.9081345608"/>
+                    <property key="extent1H" value="4.17811653183475E7"/>
+                    <property key="extent2X" value="-23.667998197740822"/>
+                    <property key="extent2Y" value="-1.6656038548807446E7"/>
+                    <property key="extent2W" value="902986.9540672804"/>
+                    <property key="extent2H" value="2.089058265917375E7"/>
+                    <property key="extent3X" value="739777.7415172316"/>
+                    <property key="extent3Y" value="-1.394343338058421E7"/>
+                    <property key="extent3W" value="902986.9540672804"/>
+                    <property key="extent3H" value="2.089058265917375E7"/>
+                    <property key="extent4X" value="563634.5487754631"/>
+                    <property key="extent4Y" value="-1.679695310300086E7"/>
+                    <property key="extent4W" value="902986.9540672804"/>
+                    <property key="extent4H" value="2.089058265917375E7"/>
+                    <property key="extent5X" value="-23.667998197740822"/>
+                    <property key="extent5Y" value="-1.6656031015035423E7"/>
+                    <property key="extent5W" value="23.66799819897185"/>
+                    <property key="extent5H" value="2.000392392485524E7"/>
+                    <property key="extent6X" value="-23.667998197740822"/>
+                    <property key="extent6Y" value="-1.6656038548807446E7"/>
+                    <property key="extent6W" value="902986.9540672804"/>
+                    <property key="extent6H" value="2.089058265917375E7"/>
+                    <property key="extent7X" value="-246624.13783667356"/>
+                    <property key="extent7Y" value="-1.1266056850909328E7"/>
+                    <property key="extent7W" value="902986.9540672804"/>
+                    <property key="extent7H" value="2.089058265917375E7"/>
+                    <property key="extent8X" value="-23.667998197740822"/>
+                    <property key="extent8Y" value="-1.6656031015035423E7"/>
+                    <property key="extent8W" value="23.66799819897185"/>
+                    <property key="extent8H" value="2.000392392485524E7"/>
+                    <property key="extent9X" value="-16902.21694236863"/>
+                    <property key="extent9Y" value="-2.664112626251797E7"/>
+                    <property key="extent9W" value="47.3359963979437"/>
+                    <property key="extent9H" value="4.000784784971048E7"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="1"/>
+                <property key="LayerNames" value="сетка_20_градусов.shp"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLyrVect"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="сетка_20_градусов.shp"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="type" value="vectorial"/>
+                    <property key="absolutePath" value="C:\ГИС_Базовый_курс\.\110m_WGS\географическая_сетка\сетка_20_градусов.shp"/>
+                    <property key="file" value=".\.\110m_WGS\географическая_сетка\сетка_20_градусов.shp"/>
+                    <property key="recordset-name" value="gdbms_d6a1945_1351b5b6997__7ffc"/>
+                    <property key="driverName" value="gvSIG shp driver"/>
+                    <property key="isLabeled" value="false"/>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.rendering.SingleSymbolLegend"/>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="desc"/>
+                            <property key="unit" value="-1"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="color" value="60,235,235,255"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                <property key="desc"/>
+                                <property key="lineWidth" value="1.0"/>
+                                <property key="dashPhase" value="0.0"/>
+                                <property key="endCap" value="0"/>
+                                <property key="lineJoin" value="2"/>
+                                <property key="miterLimit" value="10.0"/>
+                                <property key="offset" value="0.0"/>
+                                <property key="unit" value="0"/>
+                            </xml-tag>
+                        </xml-tag>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.layers.SelectionSupport"/>
+                        <property key="numBitSet" value="0"/>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="typeChild" value="linkProperties"/>
+                        <property key="extName"/>
+                        <property key="fieldName"/>
+                        <property key="typeLink" value="0"/>
+                    </xml-tag>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="ESRI:54024"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment" value=""/>
+        <property key="creationDate" value="23.01.12 1:29"/>
+        <property key="name" value="Безымянный - 1"/>
+        <property key="owner" value=""/>
+        <property key="numViews" value="4"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="-1.3356595744018644E7"/>
+                <property key="adjustedExtentY" value="-1.6306734738736413E7"/>
+                <property key="adjustedExtentW" value="3.3552246349154394E7"/>
+                <property key="adjustedExtentH" value="3.1900443451965254E7"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="103237.6796875"/>
+                <property key="dist3pixel" value="309713.03125"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="extentX" value="-4555591.987993797"/>
+                <property key="extentY" value="-1.6306734738736413E7"/>
+                <property key="extentW" value="1.59502388371047E7"/>
+                <property key="extentH" value="3.1900443451965254E7"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="ESRI:54015"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="10"/>
+                    <property key="numrec" value="10"/>
+                    <property key="extent0X" value="-9886571.516548764"/>
+                    <property key="extent0Y" value="-9230455.869889012"/>
+                    <property key="extent0W" value="9886751.516548764"/>
+                    <property key="extent0H" value="1.7804796093118265E7"/>
+                    <property key="extent1X" value="-4469254.96492606"/>
+                    <property key="extent1Y" value="-8789306.313567944"/>
+                    <property key="extent1W" value="9886751.516548764"/>
+                    <property key="extent1H" value="1.7804796093118265E7"/>
+                    <property key="extent2X" value="-7459998.884035049"/>
+                    <property key="extent2Y" value="-7307926.103441801"/>
+                    <property key="extent2W" value="8898076.364893887"/>
+                    <property key="extent2H" value="1.6024316483806439E7"/>
+                    <property key="extent3X" value="-1.1916977758495772E7"/>
+                    <property key="extent3Y" value="-1.5312143653331243E7"/>
+                    <property key="extent3W" value="1.7796152729787774E7"/>
+                    <property key="extent3H" value="3.2048632967612877E7"/>
+                    <property key="extent4X" value="-8772463.721039208"/>
+                    <property key="extent4Y" value="-1.6677942679701265E7"/>
+                    <property key="extent4W" value="1.7796152729787774E7"/>
+                    <property key="extent4H" value="3.2048632967612877E7"/>
+                    <property key="extent5X" value="-179.9999893871037"/>
+                    <property key="extent5Y" value="-89.99993255000595"/>
+                    <property key="extent5W" value="359.99998938710377"/>
+                    <property key="extent5H" value="179.99993255000595"/>
+                    <property key="extent6X" value="-9230462.289991148"/>
+                    <property key="extent6Y" value="-9230448.905553846"/>
+                    <property key="extent6W" value="9230462.289991148"/>
+                    <property key="extent6H" value="1.8460904775442857E7"/>
+                    <property key="extent7X" value="-1.2286007637232818E7"/>
+                    <property key="extent7Y" value="-8259150.037098842"/>
+                    <property key="extent7W" value="1.1076554747989377E7"/>
+                    <property key="extent7H" value="2.2153085730531428E7"/>
+                    <property key="extent8X" value="-1.3393663112031756E7"/>
+                    <property key="extent8Y" value="-1.0474458610151984E7"/>
+                    <property key="extent8W" value="1.3291865697587252E7"/>
+                    <property key="extent8H" value="2.6583702876637712E7"/>
+                    <property key="extent9X" value="-1.472284968179048E7"/>
+                    <property key="extent9Y" value="-1.3132828897815755E7"/>
+                    <property key="extent9W" value="1.59502388371047E7"/>
+                    <property key="extent9H" value="3.1900443451965254E7"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="1"/>
+                <property key="LayerNames" value="сетка_15_градусов.shp"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLyrVect"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="сетка_15_градусов.shp"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="type" value="vectorial"/>
+                    <property key="absolutePath" value="C:\ГИС_Базовый_курс\.\110m_WGS\географическая_сетка\сетка_15_градусов.shp"/>
+                    <property key="file" value=".\.\110m_WGS\географическая_сетка\сетка_15_градусов.shp"/>
+                    <property key="recordset-name" value="gdbms58fc7c93_1351b71e60f__7ffb"/>
+                    <property key="driverName" value="gvSIG shp driver"/>
+                    <property key="isLabeled" value="false"/>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.rendering.SingleSymbolLegend"/>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="desc"/>
+                            <property key="unit" value="-1"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="color" value="60,235,235,255"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                <property key="desc"/>
+                                <property key="lineWidth" value="1.0"/>
+                                <property key="dashPhase" value="0.0"/>
+                                <property key="endCap" value="0"/>
+                                <property key="lineJoin" value="2"/>
+                                <property key="miterLimit" value="10.0"/>
+                                <property key="offset" value="0.0"/>
+                                <property key="unit" value="0"/>
+                            </xml-tag>
+                        </xml-tag>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.layers.SelectionSupport"/>
+                        <property key="numBitSet" value="0"/>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="typeChild" value="linkProperties"/>
+                        <property key="extName"/>
+                        <property key="fieldName"/>
+                        <property key="typeLink" value="0"/>
+                    </xml-tag>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="ESRI:54015"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment" value=""/>
+        <property key="creationDate" value="23.01.12 1:29"/>
+        <property key="name" value="Безымянный - 2"/>
+        <property key="owner" value=""/>
+        <property key="numViews" value="4"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="-2.109195613398456E7"/>
+                <property key="adjustedExtentY" value="-2.0020613310448144E7"/>
+                <property key="adjustedExtentW" value="4.215009845568926E7"/>
+                <property key="adjustedExtentH" value="4.007501668556301E7"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="129692.609375"/>
+                <property key="dist3pixel" value="389077.8125"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="extentX" value="-16930.65376079845"/>
+                <property key="extentY" value="-2.0020613310448144E7"/>
+                <property key="extentW" value="47.49524173548056"/>
+                <property key="extentH" value="4.007501668556301E7"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="ESRI:54043"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="10"/>
+                    <property key="numrec" value="10"/>
+                    <property key="extent0X" value="-7494455.420428623"/>
+                    <property key="extent0Y" value="-1.0018754171394622E7"/>
+                    <property key="extent0W" value="7494635.420428623"/>
+                    <property key="extent0H" value="1.9650240793290555E7"/>
+                    <property key="extent1X" value="-180.0"/>
+                    <property key="extent1Y" value="-90.00000000000003"/>
+                    <property key="extent1W" value="360.0000000000001"/>
+                    <property key="extent1H" value="180.00000000000003"/>
+                    <property key="extent2X" value="-1.6004564322817594E7"/>
+                    <property key="extent2Y" value="-1.0018754171394622E7"/>
+                    <property key="extent2W" value="3.200912822659359E7"/>
+                    <property key="extent2H" value="1.934719256190767E7"/>
+                    <property key="extent3X" value="-3.2026735217317138E7"/>
+                    <property key="extent3Y" value="-1.9674743671145707E7"/>
+                    <property key="extent3W" value="6.401825645318718E7"/>
+                    <property key="extent3H" value="3.869438512381534E7"/>
+                    <property key="extent4X" value="-179.9999893871037"/>
+                    <property key="extent4Y" value="-89.99993255000595"/>
+                    <property key="extent4W" value="359.99998938710377"/>
+                    <property key="extent4H" value="179.99993255000595"/>
+                    <property key="extent5X" value="-168.21781151662367"/>
+                    <property key="extent5Y" value="-11.138564272133323"/>
+                    <property key="extent5W" value="179.99999469355188"/>
+                    <property key="extent5H" value="89.99996627500298"/>
+                    <property key="extent6X" value="-179.9999893871037"/>
+                    <property key="extent6Y" value="-89.99993255000595"/>
+                    <property key="extent6W" value="359.99998938710377"/>
+                    <property key="extent6H" value="179.99993255000595"/>
+                    <property key="extent7X" value="-153.5643466020771"/>
+                    <property key="extent7Y" value="-96.2870766134175"/>
+                    <property key="extent7W" value="179.99999469355188"/>
+                    <property key="extent7H" value="89.99996627500298"/>
+                    <property key="extent8X" value="-179.9999893871037"/>
+                    <property key="extent8Y" value="-89.99993255000595"/>
+                    <property key="extent8W" value="359.99998938710377"/>
+                    <property key="extent8H" value="179.99993255000595"/>
+                    <property key="extent9X" value="-23.74762086774028"/>
+                    <property key="extent9Y" value="-1.0018754171386886E7"/>
+                    <property key="extent9W" value="23.74762086774028"/>
+                    <property key="extent9H" value="2.0037508342781506E7"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="1"/>
+                <property key="LayerNames" value="сетка_15_градусов.shp"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLyrVect"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="сетка_15_градусов.shp"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="type" value="vectorial"/>
+                    <property key="absolutePath" value="C:\ГИС_Базовый_курс\.\110m_WGS\географическая_сетка\сетка_15_градусов.shp"/>
+                    <property key="file" value=".\.\110m_WGS\географическая_сетка\сетка_15_градусов.shp"/>
+                    <property key="recordset-name" value="gdbms58fc7c93_1351b71e60f__7ffd"/>
+                    <property key="driverName" value="gvSIG shp driver"/>
+                    <property key="isLabeled" value="false"/>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.rendering.SingleSymbolLegend"/>
+                        <xml-tag>
+                            <property key="className" value="com.iver.cit.gvsig.fmap.core.symbols.SimpleLineSymbol"/>
+                            <property key="isShapeVisible" value="true"/>
+                            <property key="desc"/>
+                            <property key="unit" value="-1"/>
+                            <property key="referenceSystem" value="0"/>
+                            <property key="color" value="60,235,235,255"/>
+                            <xml-tag>
+                                <property key="className" value="com.iver.cit.gvsig.fmap.core.styles.SimpleLineStyle"/>
+                                <property key="desc"/>
+                                <property key="lineWidth" value="1.0"/>
+                                <property key="dashPhase" value="0.0"/>
+                                <property key="endCap" value="0"/>
+                                <property key="lineJoin" value="2"/>
+                                <property key="miterLimit" value="10.0"/>
+                                <property key="offset" value="0.0"/>
+                                <property key="unit" value="0"/>
+                            </xml-tag>
+                        </xml-tag>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="className" value="com.iver.cit.gvsig.fmap.layers.SelectionSupport"/>
+                        <property key="numBitSet" value="0"/>
+                    </xml-tag>
+                    <xml-tag>
+                        <property key="typeChild" value="linkProperties"/>
+                        <property key="extName"/>
+                        <property key="fieldName"/>
+                        <property key="typeLink" value="0"/>
+                    </xml-tag>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="ESRI:54043"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="name" value="AndamiPersistence"/>
+        <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+        <xml-tag>
+            <property key="name" value="ViewInfoProperties"/>
+            <property key="X" value="-1"/>
+            <property key="Y" value="-1"/>
+            <property key="Width" value="430"/>
+            <property key="Height" value="594"/>
+            <property key="isVisible" value="true"/>
+            <property key="isResizable" value="false"/>
+            <property key="isMaximizable" value="true"/>
+            <property key="isModal" value="false"/>
+            <property key="isModeless" value="false"/>
+            <property key="isClosed" value="false"/>
+            <property key="isNotClosable" value="false"/>
+            <property key="AdditionalInfo"/>
+            <property key="className" value="com.iver.cit.gvsig.project.document.gui.ProjectWindow"/>
+            <property key="zPosition" value="1"/>
+        </xml-tag>
+    </xml-tag>
+</xml-tag>

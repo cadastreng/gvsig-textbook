@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-tag xmlns="http://www.gvsig.gva.es">
+    <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+    <property key="VERSION" value="1.11.0"/>
+    <property key="comments" value=""/>
+    <property key="creationDate" value="28.01.2012"/>
+    <property key="isAbsolutePath" value="true"/>
+    <property key="numExtents" value="0"/>
+    <property key="numCameras" value="0"/>
+    <property key="data-source-count" value="1"/>
+    <property key="numDocuments" value="2"/>
+    <property key="modificationDate" value="31.01.2012"/>
+    <property key="name" value="Веб_Сервисы.gvp"/>
+    <property key="owner" value=""/>
+    <property key="selectionColor" value="255,255,0,255"/>
+    <property key="projection" value="ESRI:54042"/>
+    <property key="followHeaderEncoding" value="true"/>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="ORA_EPSG"/>
+        <property key="file" value="C:/My_Program/gvSIG_1.11.0_final/bin/gvSIG/extensiones/com.iver.cit.gvsig.oracle_spatial/dbf/ORA_EPSG.DBF"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment" value=""/>
+        <property key="creationDate" value="28.01.12 12:14"/>
+        <property key="name" value="ESRI ArcIMS"/>
+        <property key="owner" value=""/>
+        <property key="numViews" value="3"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="-185.1923076923077"/>
+                <property key="adjustedExtentY" value="-135.0"/>
+                <property key="adjustedExtentW" value="370.3846153846154"/>
+                <property key="adjustedExtentH" value="270.0"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="0.4326923191547394"/>
+                <property key="dist3pixel" value="1.2980769872665405"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="extentX" value="-180.0"/>
+                <property key="extentY" value="-135.0"/>
+                <property key="extentW" value="360.0"/>
+                <property key="extentH" value="270.0"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:3395"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="1"/>
+                <property key="LayerNames" value="Ландшафты"/>
+                <xml-tag>
+                    <property key="className" value="es.prodevelop.cit.gvsig.arcims.fmap.layers.FRasterLyrArcIMS"/>
+                    <property key="active" value="true"/>
+                    <property key="name" value="Ландшафты"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:3395"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="filter.transparency.active" value="true"/>
+                    <property
+                        key="filter.transparency.transparencyRange0" value="255 &amp; 255 &amp; 255@0"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="fullExtent" value="-180.0,-135.0,360.0,270.0"/>
+                    <property key="host" value="http://www.geographynetwork.com/servlet/com.esri.esrimap.Esrimap"/>
+                    <property key="serviceName" value="ESRI_Landuse"/>
+                    <property key="serviceType" value="ImageServer"/>
+                    <property key="layerQuery" value="Oceans and Seas,Antarctica,Land Use 1,Land Use 2,Water Bodies 1,Water Bodies 2,Rivers,Country Boundaries,Boundary Lines,Major Cities 1,Capital Cities"/>
+                    <property key="format" value="png"/>
+                    <property key="arcims_transparency" value="true"/>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:3395"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment" value=""/>
+        <property key="creationDate" value="28.01.12 12:17"/>
+        <property key="name" value="WMS OpenStreetMap"/>
+        <property key="owner" value=""/>
+        <property key="numViews" value="3"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="-2.7428867329836596E7"/>
+                <property key="adjustedExtentY" value="-1.999487524978741E7"/>
+                <property key="adjustedExtentW" value="5.485773465967319E7"/>
+                <property key="adjustedExtentH" value="3.998975049957485E7"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="64086.13671875"/>
+                <property key="dist3pixel" value="192258.40625"/>
+                <property key="distanceUnits" value="0"/>
+                <property key="extentX" value="-2.0037508342789244E7"/>
+                <property key="extentY" value="-1.999487524978741E7"/>
+                <property key="extentW" value="4.007501668557849E7"/>
+                <property key="extentH" value="3.998975049957485E7"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:3395"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="1"/>
+                <property key="LayerNames" value="WMS OpenStreetMap"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLyrWMS"/>
+                    <property key="active" value="true"/>
+                    <property key="name" value="WMS OpenStreetMap"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:3395"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="filter.transparency.active" value="true"/>
+                    <property key="filter.transparency.bandnumber" value="3"/>
+                    <property key="fullExtent" value="-2.0037508342789244E7,-1.999487524978741E7,4.007501668557849E7,3.998975049957485E7"/>
+                    <property key="host" value="http://irs.gis-lab.info/?layers=osm&amp;"/>
+                    <property key="infoLayerQuery" value=""/>
+                    <property key="layerQuery" value="osm"/>
+                    <property key="format" value="image/png"/>
+                    <property key="srs" value="EPSG:3395"/>
+                    <property key="wms_transparency" value="true"/>
+                    <property key="styles" value=""/>
+                    <property key="onlineResources" value="GetCapabilities~##SEP2##~http://irs.gis-lab.info/~##SEP1##~GetMap~##SEP2##~http://irs.gis-lab.info/?"/>
+                    <property key="queryable" value="false"/>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:3395"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="name" value="AndamiPersistence"/>
+        <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+        <xml-tag>
+            <property key="name" value="ViewInfoProperties"/>
+            <property key="X" value="-1"/>
+            <property key="Y" value="-1"/>
+            <property key="Width" value="430"/>
+            <property key="Height" value="594"/>
+            <property key="isVisible" value="true"/>
+            <property key="isResizable" value="false"/>
+            <property key="isMaximizable" value="true"/>
+            <property key="isModal" value="false"/>
+            <property key="isModeless" value="false"/>
+            <property key="isClosed" value="false"/>
+            <property key="isNotClosable" value="false"/>
+            <property key="AdditionalInfo"/>
+            <property key="className" value="com.iver.cit.gvsig.project.document.gui.ProjectWindow"/>
+            <property key="zPosition" value="1"/>
+        </xml-tag>
+    </xml-tag>
+</xml-tag>

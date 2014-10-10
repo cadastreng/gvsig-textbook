@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-tag xmlns="http://www.gvsig.gva.es">
+    <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+    <property key="VERSION" value="1.11.0"/>
+    <property key="comments" value=""/>
+    <property key="creationDate" value="28.01.2012"/>
+    <property key="isAbsolutePath" value="false"/>
+    <property key="numExtents" value="0"/>
+    <property key="numCameras" value="0"/>
+    <property key="data-source-count" value="1"/>
+    <property key="numDocuments" value="1"/>
+    <property key="modificationDate" value="31.01.2012"/>
+    <property key="name" value="Растр.gvp"/>
+    <property key="owner" value=""/>
+    <property key="selectionColor" value="255,255,0,255"/>
+    <property key="projection" value="ESRI:54042"/>
+    <property key="followHeaderEncoding" value="true"/>
+    <xml-tag>
+        <property key="type" value="otherDriverFile"/>
+        <property key="gdbmsname" value="ORA_EPSG"/>
+        <property key="file" value="C:/My_Program/gvSIG_1.11.0_final/bin/gvSIG/extensiones/com.iver.cit.gvsig.oracle_spatial/dbf/ORA_EPSG.DBF"/>
+        <property key="driverName" value="gdbms dbf driver"/>
+    </xml-tag>
+    <xml-tag>
+        <property key="className" value="ProjectView"/>
+        <property key="comment" value=""/>
+        <property key="creationDate" value="31.01.12 22:59"/>
+        <property key="name" value="Карта мира"/>
+        <property key="owner" value=""/>
+        <property key="numViews" value="2"/>
+        <property key="mapOverView" value="true"/>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="adjustedExtentX" value="-179.99999999999997"/>
+                <property key="adjustedExtentY" value="-171.13846153843542"/>
+                <property key="adjustedExtentW" value="359.999999999964"/>
+                <property key="adjustedExtentH" value="342.27692307688886"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="1.1076923608779907"/>
+                <property key="dist3pixel" value="3.3230772018432617"/>
+                <property key="distanceUnits" value="0"/>
+                <property key="extentX" value="-179.99999999999997"/>
+                <property key="extentY" value="-89.99999999998201"/>
+                <property key="extentW" value="359.999999999964"/>
+                <property key="extentH" value="179.999999999982"/>
+                <property key="mapUnits" value="8"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:4326"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="1"/>
+                <property key="LayerNames" value="гипсометрическая_карта_мира.tif"/>
+                <xml-tag>
+                    <property key="className" value="org.gvsig.fmap.raster.layers.FLyrRasterSE"/>
+                    <property key="active" value="false"/>
+                    <property key="name" value="гипсометрическая_карта_мира.tif"/>
+                    <property key="minScale" value="-1.0"/>
+                    <property key="maxScale" value="-1.0"/>
+                    <property key="visible" value="true"/>
+                    <property key="proj" value="EPSG:4326"/>
+                    <property key="transparency" value="255"/>
+                    <property key="isInTOC" value="true"/>
+                    <property key="absolutePath" value="C:\ГИС_Базовый_курс\Растр\гипсометрическая_карта_мира.tif"/>
+                    <property key="file" value=".\Растр\гипсометрическая_карта_мира.tif"/>
+                    <property key="driverName" value="gvSIG Raster Driver"/>
+                    <property key="raster.class" value="org.gvsig.fmap.raster.layers.StatusLayerRaster"/>
+                    <property key="raster.bandR" value="0"/>
+                    <property key="raster.bandG" value="1"/>
+                    <property key="raster.bandB" value="2"/>
+                    <property key="raster.file0" value="C:\ГИС_Базовый_курс\Растр\гипсометрическая_карта_мира.tif"/>
+                </xml-tag>
+            </xml-tag>
+        </xml-tag>
+        <xml-tag>
+            <property key="className" value="com.iver.cit.gvsig.fmap.MapContext"/>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.ViewPort"/>
+                <property key="backColor" value="255,255,255,255"/>
+                <property key="dist1pixel" value="0.0"/>
+                <property key="dist3pixel" value="0.0"/>
+                <property key="distanceUnits" value="1"/>
+                <property key="mapUnits" value="1"/>
+                <property key="offsetX" value="0.0"/>
+                <property key="offsetY" value="0.0"/>
+                <property key="proj" value="EPSG:4326"/>
+                <property key="scale" value="0.0"/>
+                <xml-tag>
+                    <property key="className" value="com.iver.cit.gvsig.fmap.ExtentHistory"/>
+                    <property key="num" value="0"/>
+                    <property key="numrec" value="10"/>
+                </xml-tag>
+            </xml-tag>
+            <xml-tag>
+                <property key="className" value="com.iver.cit.gvsig.fmap.layers.FLayers"/>
+                <property key="active" value="false"/>
+                <property key="name" value="root layer"/>
+                <property key="minScale" value="-1.0"/>
+                <property key="maxScale" value="-1.0"/>
+                <property key="visible" value="true"/>
+                <property key="transparency" value="255"/>
+                <property key="isInTOC" value="true"/>
+                <property key="numLayers" value="0"/>
+                <property key="LayerNames" value=""/>
+            </xml-tag>
+        </xml-tag>
+    </xml-tag>
+    <xml-tag>
+        <property key="name" value="AndamiPersistence"/>
+        <property key="className" value="com.iver.cit.gvsig.project.Project"/>
+        <xml-tag>
+            <property key="name" value="ViewInfoProperties"/>
+            <property key="X" value="-1"/>
+            <property key="Y" value="-1"/>
+            <property key="Width" value="430"/>
+            <property key="Height" value="594"/>
+            <property key="isVisible" value="true"/>
+            <property key="isResizable" value="false"/>
+            <property key="isMaximizable" value="true"/>
+            <property key="isModal" value="false"/>
+            <property key="isModeless" value="false"/>
+            <property key="isClosed" value="false"/>
+            <property key="isNotClosable" value="false"/>
+            <property key="AdditionalInfo"/>
+            <property key="className" value="com.iver.cit.gvsig.project.document.gui.ProjectWindow"/>
+            <property key="zPosition" value="1"/>
+        </xml-tag>
+    </xml-tag>
+</xml-tag>
